@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile!
-### My name is Henrique, I'm an Architect and a developer in development 😄.
+### My name is Henrique, I'm an Architect and a Developer in development 😄.
 
 
 ### Already have knowledge in 💯:
