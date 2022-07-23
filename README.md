@@ -3,15 +3,16 @@
 
 
 ### Already have knowledge in 💯:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="25" height="25"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="25" height="25"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="25" height="25"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="25" height="25"/>
 
 
 ### I'm getting into ✍:
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="25" height="25"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="25" height="25"/>
           
           
 ### Where to find me:
-### Contatos:
 
 <div>
 <a href="https://instagram.com/hbenevideschagas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
