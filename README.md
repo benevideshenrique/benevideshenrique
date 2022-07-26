@@ -2,7 +2,7 @@
 ### My name is Henrique, I'm an Architect and a Developer in development 😄.
 
 
-### Already have knowledge in 💯:
+### I'm familiar with: 💯:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="25" height="25"/>
 
